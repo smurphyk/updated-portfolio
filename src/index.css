@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#logo path:nth-child(2) {
+  stroke-dasharray: 220px;
+}
